@@ -1,0 +1,11 @@
+Importaciones:
+
+mysql
+body-parser
+react-native
+react-native-paper
+formik
+yup
+axios
+express
+cors
